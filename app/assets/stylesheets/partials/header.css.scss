@@ -1,0 +1,17 @@
+.row, header
+{
+	margin: auto;
+	max-width: 65%;
+	min-height: 250px;
+	background-image: url('wickedPhoto/wps05.jpg');
+	background-size: 100% 100%;
+	z-index: 10;
+	background-repeat: no-repeat;
+}
+.row .col-mid-9
+{
+	max-width: 50%;
+	background-image: url('logo/209tb.png');
+	z-index: 20;
+	background-position: center;
+}
